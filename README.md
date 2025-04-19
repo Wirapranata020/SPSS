@@ -1,1 +1,1 @@
-"# SPSS" 
+SPSS VERSION 26
